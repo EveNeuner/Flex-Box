@@ -1,0 +1,19 @@
+div {
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    border-style: dashed;
+}
+
+p {
+    color: rgb(124, 10, 90);
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    
+}
